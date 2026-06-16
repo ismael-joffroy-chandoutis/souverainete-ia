@@ -24,6 +24,12 @@ The most useful grid is not technical, it is political. To know whether an infra
 
 The test applies everywhere. An institution's email. A hospital's cloud. The Visa or Mastercard payment rail, which is probably the purest cutoff of all: you do not control the tap. The Starlink of a country at war, which Musk throttled and then cut off over Crimea in 2022, deciding alone which military operations Ukraine had the right to conduct. Each time, the same structure: non-cuttability has been delegated to a foreign actor with no accountability whatsoever.
 
+## The subsidized subscription: the fief at the scale of the individual
+
+The test holds for the individual too, and that is where it is least seen. A subscription to a frontier model costs about twenty euros a month today, but that price does not reflect the real cost of inference. For sustained use, the compute value of such a plan far exceeds its price: industry analyses estimate that a subscription sold for around twenty dollars is worth, at per-request inference rates, several hundred dollars of compute, and that a provider only breaks even if the subscriber consumes little. The service is sold at a loss on intensive use.
+
+This is not generosity, it is a lock-in tactic. The low price is funded by capital to capture the user and install the dependence while it is cheap. Once the habit is formed, the cost of exit is in place: scarcity and the price rise come afterward, and they have already begun to materialize in the price of hardware (see [section 01](01-state-of-play.md)). A fief is recognized not only by the brutal cutoff of an institution. It is recognized too by the soft subsidy that makes a tool indispensable before revealing its price.
+
 ## The Mistral case: conditional sovereignty, without trial by intent
 
 Mistral is the case study, and it has to be handled fairly, without turning it into a culprit.

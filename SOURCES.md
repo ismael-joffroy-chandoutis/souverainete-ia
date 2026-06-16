@@ -23,6 +23,8 @@ Sélection des sources les plus porteuses, organisée par thème, datée. Ce n'e
 - Terres rares et contrôles export chinois — CSIS ; IEA. https://www.csis.org/analysis/consequences-chinas-new-rare-earths-export-restrictions
 - Déficit structurel de cuivre (IA vs transition) — S&P Global, 8 janvier 2026. https://press.spglobal.com/2026-01-08-Substantial-Shortfall-in-Copper-Supply-Widens
 - Eau des datacenters et conflits (Aragon, Lleida) — Data Center Dynamics. https://www.datacenterdynamics.com/en/news/spains-city-of-lleida-bans-data-centers/
+- Flambée DRAM, environ +90 % QoQ au T1 2026 sur les contrats, réallocation vers HBM et serveurs IA — TrendForce, 2 février 2026. https://www.trendforce.com/presscenter/news/20260202-12911.html
+- DDR5 grand public multipliée par environ 3 à 4 (automne 2025 à fin d'année) ; HBM dédiée IA à près d'un quart des galettes DRAM — Tom's Hardware ; analyses 2026. https://www.tomshardware.com/pc-components/ram/ram-price-index-2026
 
 ## Modèles, Mistral, paradigme suivant
 
@@ -37,6 +39,7 @@ Sélection des sources les plus porteuses, organisée par thème, datée. Ce n'e
 - CLOUD Act (2018) et portée extraterritoriale — textes et analyses ANSSI/CNIL.
 - AWS European Sovereign Cloud (lancé 15 janvier 2026) et limites juridiques — communiqués AWS et analyses.
 - Parts de marché cloud européen (~70 % hyperscalers US) — Synergy Research / analyses sectorielles 2026.
+- Abonnement IA vendu sous le coût réel d'inférence (la valeur en tokens d'un forfait à ~20 $ est estimée à plusieurs centaines de dollars ; équilibre atteint seulement à faible usage) — Cybernews, reprenant SemiAnalysis, 2025. https://cybernews.com/ai-news/chatgpt-claude-usage-costs-openai-anthropic/
 
 ## Robotique
 

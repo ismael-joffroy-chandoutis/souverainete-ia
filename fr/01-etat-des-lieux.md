@@ -48,6 +48,12 @@ La mémoire à haute bande passante (HBM), indispensable aux puces IA, est un ol
 
 Les matériaux sont pires encore, parce qu'ils sont déjà transformés en arme. La Chine fournit environ 98 % des terres rares et 71 % du gallium importés, et contrôle 60 % de l'extraction mondiale et 90 % du raffinage. Sa règle extraterritoriale dite des 0,1 %, entrée en vigueur le 1er décembre 2025, étend ce contrôle à tout produit contenant ces matériaux. Le prix du gallium a augmenté de 365 % sur la seule année 2025. Ce n'est pas une dépendance théorique : en avril 2025, des usines occidentales ont été mises à l'arrêt faute d'aimants.
 
+### La pénurie déborde sur le grand public
+
+Cette pénurie ne reste pas confinée aux datacenters. En réallouant leurs capacités vers la mémoire haute bande passante et les serveurs IA, les fondeurs ont raréfié la mémoire ordinaire, et le prix a suivi. Sur les contrats, la DRAM a bondi de l'ordre de 90 % sur le seul premier trimestre 2026 ; au détail, des modules DDR5 ont vu leur prix multiplié par trois à quatre entre l'automne 2025 et la fin de l'année. La mémoire haute bande passante dédiée à l'IA absorbe désormais près d'un quart de la production de galettes DRAM.
+
+Il faut le formuler sans exagérer, car le chiffre est ici un argument, pas un slogan : on parle d'un facteur trois à quatre sur certains produits et sur une fenêtre précise, pas d'un facteur vingt. Mais la conséquence politique est claire. Quiconque achète un ordinateur en 2026 paie une prime de rareté indirectement causée par la demande des datacenters. C'est une taxe matérielle, invisible et non votée : la couche la plus industrielle de la pile, la mémoire, se répercute jusque dans le portefeuille de l'acheteur individuel, qui finance malgré lui la course au compute.
+
 ---
 
 ## Couche 1 (la plus verrouillée) — La fonderie de pointe et l'EUV

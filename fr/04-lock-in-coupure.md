@@ -24,6 +24,12 @@ La grille la plus utile n'est pas technique, elle est politique. Pour savoir si 
 
 Le test s'applique partout. La messagerie d'une institution. Le cloud d'un hôpital. Le rail de paiement Visa ou Mastercard, qui est sans doute la coupure la plus pure de toutes : on ne contrôle pas le robinet. Le Starlink d'un État en guerre, que Musk a bridé puis coupé au-dessus de la Crimée en 2022, décidant seul quelles opérations militaires l'Ukraine avait le droit de mener. À chaque fois, la même structure : la non-coupabilité a été déléguée à un acteur étranger sans aucune redevabilité.
 
+## L'abonnement subventionné : le fief à l'échelle de l'individu
+
+Le test vaut aussi pour le particulier, et c'est là qu'on le voit le moins. Un abonnement à un modèle de pointe se paie aujourd'hui une vingtaine d'euros par mois, mais ce prix ne reflète pas le coût réel de l'inférence. Pour un usage soutenu, la valeur en calcul d'un tel forfait dépasse de loin son prix : des analyses du secteur estiment qu'un abonnement vendu une vingtaine de dollars équivaut, au tarif d'inférence facturé à la requête, à plusieurs centaines de dollars de calcul, et qu'un fournisseur n'atteint l'équilibre que si l'abonné consomme peu. Le service est vendu à perte sur les usages intensifs.
+
+Ce n'est pas une générosité, c'est une tactique de verrou. Le prix bas est financé par le capital pour capter l'usager et installer la dépendance pendant que c'est bon marché. Une fois l'habitude prise, le coût de sortie est constitué : la rareté et la hausse viennent ensuite, et elles ont déjà commencé à se matérialiser dans le prix du matériel (voir [section 01](01-etat-des-lieux.md)). Le fief ne se reconnaît pas seulement à la coupure brutale d'une institution. Il se reconnaît aussi à la subvention douce qui rend un outil indispensable avant d'en révéler le prix.
+
 ## Le cas Mistral : la souveraineté conditionnelle, sans procès d'intention
 
 Mistral est l'étude de cas, et il faut le traiter avec justesse, sans en faire un coupable.

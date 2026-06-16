@@ -48,6 +48,12 @@ High-bandwidth memory (HBM), indispensable to AI chips, is an Asian and American
 
 The materials are worse still, because they have already been turned into a weapon. China supplies around 98% of imported rare earths and 71% of imported gallium, and controls 60% of global extraction and 90% of refining. Its extraterritorial rule known as the 0.1% rule, which took effect on 1 December 2025, extends this control to any product containing these materials. The price of gallium rose by 365% over the single year 2025. This is not a theoretical dependence: in April 2025, Western factories were brought to a halt for lack of magnets.
 
+### The shortage spills over to consumers
+
+This shortage does not stay confined to datacenters. By reallocating their capacity toward high-bandwidth memory and AI servers, the foundries thinned out ordinary memory, and the price followed. On contracts, DRAM jumped by around 90% over the single first quarter of 2026; at retail, DDR5 modules saw their price multiplied by three to four between the autumn of 2025 and the end of the year. The high-bandwidth memory dedicated to AI now absorbs close to a quarter of DRAM wafer production.
+
+It has to be put without exaggeration, because here the figure is an argument, not a slogan: we are talking about a factor of three to four on certain products and over a precise window, not a factor of twenty. But the political consequence is clear. Anyone who buys a computer in 2026 pays a scarcity premium indirectly caused by datacenter demand. It is a hardware tax, invisible and unvoted: the most industrial layer of the stack, memory, reaches all the way into the wallet of the individual buyer, who funds the compute race in spite of himself.
+
 ---
 
 ## Layer 1 (the most locked-in): Leading-edge foundry and EUV
