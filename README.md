@@ -2,7 +2,7 @@
 
 **Où on en est vraiment, et ce qu'on peut faire pour ne pas se faire piloter.**
 
-*Document de recherche. État vérifié au 15 juin 2026. Version française ci-dessous. Version anglaise : [`README.en.md`](README.en.md). Méthode et sources : [`METHODE.md`](METHODE.md) et [`SOURCES.md`](SOURCES.md).*
+*Document de recherche. État vérifié au 15 juin 2026. Version française ci-dessous. Version anglaise : [`README.en.md`](README.en.md). Sources : [`SOURCES.md`](SOURCES.md).*
 
 ---
 
@@ -49,17 +49,7 @@ Tout est sourcé et daté. Là où les sources sérieuses se contredisent, je le
 6. [Ce qui peut retourner la table : les inconnues](fr/06-ce-qui-peut-retourner-la-table.md)
 7. [La couche oubliée : données et consentement](fr/07-donnees-consentement.md)
 
-Annexes : [`SOURCES.md`](SOURCES.md) (bibliographie vérifiée, datée) et [`METHODE.md`](METHODE.md) (comment ce document a été produit, et les corrections factuelles assumées).
-
----
-
-## Note de méthode
-
-Ce document s'appuie sur cinq campagnes de recherche en profondeur menées les 14 et 15 juin 2026, soit environ soixante-dix agents de recherche web travaillant en parallèle, avec vérification adversariale des affirmations à fort enjeu : chaque affirmation risquée est soumise à un agent chargé de la réfuter, et n'est conservée que si elle survit. Les chiffres sont datés et sourcés.
-
-Cinq corrections factuelles ont été assumées en cours de route (détaillées dans [`METHODE.md`](METHODE.md)), notamment sur les performances réelles de Mistral, le coût de l'électricité française et le marché du Health Data Hub. Sur les sujets où le débat reste ouvert, l'éclatement de la bulle IA en particulier, les fourchettes et les désaccords entre sources sérieuses sont donnés sans être tranchés.
-
-Limites assumées : les chiffres de mars à juin 2026 issus d'agrégateurs sont signalés comme tels et à reconfirmer sur source primaire avant toute citation nominale publique. Le spatial et le quantique, ajoutés dans une passe ultérieure, figurent dans la section 06.
+Annexe : [`SOURCES.md`](SOURCES.md) (bibliographie vérifiée, datée).
 
 ---
 

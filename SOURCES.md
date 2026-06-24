@@ -85,6 +85,6 @@ Sélection des sources les plus porteuses, organisée par thème, datée. Ce n'e
 
 ---
 
-*Les archives de recherche brutes (findings structurés, agents de vérification) sont conservées hors dépôt. Les chiffres d'agrégateurs de mars à juin 2026 sont à reconfirmer sur source primaire avant citation nominale publique, conformément à [`METHODE.md`](METHODE.md).*
+*Les chiffres d'agrégateurs de mars à juin 2026 sont à reconfirmer sur source primaire avant citation nominale publique.*
 
 [← Sommaire](README.md)

@@ -2,7 +2,7 @@
 
 **Where we really stand, and what we can do to avoid being steered.**
 
-*Research document. State verified as of June 15, 2026. English version below. French version: [`README.md`](README.md). Method and sources: [`METHODE.en.md`](METHODE.en.md) and [`SOURCES.md`](SOURCES.md).*
+*Research document. State verified as of June 15, 2026. English version below. French version: [`README.md`](README.md). Sources: [`SOURCES.md`](SOURCES.md).*
 
 ---
 
@@ -49,17 +49,7 @@ Everything is sourced and dated. Where serious sources contradict each other, I 
 6. [What could flip the table: the unknowns](en/06-what-could-flip-the-table.md)
 7. [The forgotten layer: data and consent](en/07-data-and-consent.md)
 
-Appendices: [`SOURCES.md`](SOURCES.md) (verified, dated bibliography) and [`METHODE.en.md`](METHODE.en.md) (how this document was produced, and the factual corrections owned).
-
----
-
-## Note on method
-
-This document draws on five deep research campaigns conducted on June 14 and 15, 2026, roughly seventy web research agents working in parallel, with adversarial verification of high-stakes claims: each risky claim is submitted to an agent tasked with refuting it, and is kept only if it survives. The figures are dated and sourced.
-
-Five factual corrections were owned along the way (detailed in [`METHODE.en.md`](METHODE.en.md)), notably on Mistral's real performance, the cost of French electricity, and the Health Data Hub market. On the subjects where the debate remains open, the bursting of the AI bubble in particular, the ranges and the disagreements between serious sources are given without being settled.
-
-Acknowledged limits: figures from March to June 2026 drawn from aggregators are flagged as such and to be reconfirmed against primary sources before any public attributed citation. Space and quantum, added in a later pass, are covered in section 06.
+Appendix: [`SOURCES.md`](SOURCES.md) (verified, dated bibliography).
 
 ---
 
