@@ -12,7 +12,7 @@ On va les parcourir de la couche la plus réversible à la couche la plus verrou
 
 C'est ici qu'on regarde toujours, et c'est ici que la dépendance est la moins grave.
 
-Au 14 juin 2026, aucun modèle européen n'est à la frontière mondiale. Le haut du tableau est tenu par Claude, GPT-5.5 et Gemini 3.1. Mistral, le champion européen, a levé de l'ordre de 4 milliards de dollars cumulés, à comparer aux quelque 186 milliards d'OpenAI et 161 milliards d'Anthropic. L'écart de capital est d'un facteur cinquante.
+Au 14 juin 2026, aucun modèle européen n'est à la frontière mondiale. Le haut du tableau est tenu par Claude, GPT-5.5 et Gemini 3.1. Mistral, le champion européen, a levé de l'ordre de 4 milliards de dollars cumulés, à comparer aux quelque 186 milliards d'OpenAI et 125 milliards d'Anthropic. L'écart de capital est d'un facteur quarante à cinquante.
 
 Mais ce retard est largement un faux problème, et il faut le dire précisément pour ne pas se tromper de combat. D'abord parce que la couche modèle se commoditise : distillation, mélange d'experts, quantization, recettes d'entraînement publiques font tomber l'écart avec la frontière à environ dix points et trois à six mois, pendant que le coût par token chute d'un facteur dix par an. La preuve a contrario est juridique : faute de barrière technique durable, les États-Unis défendent désormais leur avance par le droit. Ensuite parce que la mesure brute trompe : Mistral Large 3 affiche 43,9 % sur le benchmark de raisonnement GPQA Diamond, mais en mode standard, sans raisonnement activé ; ses variantes de raisonnement referment largement l'écart. Mistral ne se compare d'ailleurs pas aux modèles fermés américains mais à ses pairs ouverts, DeepSeek ou Kimi.
 
@@ -26,9 +26,9 @@ Deux réserves, cependant. La première : l'open-weight mondial est dominé par 
 
 L'Europe pèse environ 5 % du compute IA mondial, contre 70 à 80 % pour les États-Unis et 11 % pour la Chine, et cette part baisse depuis le début 2025.
 
-Mais le vrai goulot d'étranglement n'est plus le capital. L'argent privé existe (plus de 200 milliards d'euros d'intérêt exprimé). Ce qui bloque, c'est le **raccordement au réseau électrique** : sept à treize ans de file d'attente en moyenne sur les grandes places européennes, pour une électricité industrielle environ deux fois plus chère qu'aux États-Unis. Le Danemark l'a prouvé brutalement en mai 2026 : son gestionnaire de réseau a dû imposer un moratoire de trois mois sur les nouvelles connexions, avec 60 GW de demandes en attente pour un pic national de 7 GW. Même la grille la plus propre d'Europe sature.
+Mais le vrai goulot d'étranglement n'est plus le capital. L'argent privé existe (plus de 200 milliards d'euros d'intérêt exprimé). Ce qui bloque, c'est le **raccordement au réseau électrique** : sept à treize ans de file d'attente en moyenne sur les grandes places européennes, pour une électricité industrielle environ deux fois plus chère qu'aux États-Unis. Le Danemark l'a prouvé brutalement en mars 2026 : son gestionnaire de réseau a dû imposer un moratoire de trois mois sur les nouvelles connexions, avec 60 GW de demandes en attente pour un pic national de 7 GW. Même la grille la plus propre d'Europe sature.
 
-C'est ici qu'on cite le nucléaire français comme atout souverain, et il faut être précis pour ne pas mentir. Oui, la grille française est parmi les moins carbonées au monde, autour de 6 gCO2 par kWh. Mais « faible intensité carbone » ne veut pas dire « propre » ni « souverain » :
+C'est ici qu'on cite le nucléaire français comme atout souverain, et il faut être précis pour ne pas mentir. Oui, la grille française est parmi les moins carbonées au monde, autour de 20 à 27 gCO2 par kWh selon les années (21,7 g en 2024 selon RTE), juste derrière la seule Norvège en Europe. Mais « faible intensité carbone » ne veut pas dire « propre » ni « souverain » :
 
 - ce n'est pas propre : déchets de haute activité dangereux sur des dizaines de milliers d'années, sans stockage géologique profond opérationnel ;
 - ce n'est pas pleinement souverain : l'uranium est importé à près de 100 %, du Niger et du Kazakhstan notamment, avec une dimension néo-coloniale assumée ;
@@ -46,7 +46,7 @@ C'est une couche dure, et l'Europe y est absente.
 
 La mémoire à haute bande passante (HBM), indispensable aux puces IA, est un oligopole asiatique et américain : SK Hynix autour de 62 %, Micron 21 %, Samsung 17 %, et 0 % européen. Toute la production 2026 est déjà vendue, sous contrats non annulables, avec une pénurie qui s'étend jusqu'en 2027 et au-delà.
 
-Les matériaux sont pires encore, parce qu'ils sont déjà transformés en arme. La Chine fournit environ 98 % des terres rares et 71 % du gallium importés, et contrôle 60 % de l'extraction mondiale et 90 % du raffinage. Sa règle extraterritoriale dite des 0,1 %, entrée en vigueur le 1er décembre 2025, étend ce contrôle à tout produit contenant ces matériaux. Le prix du gallium a augmenté de 365 % sur la seule année 2025. Ce n'est pas une dépendance théorique : en avril 2025, des usines occidentales ont été mises à l'arrêt faute d'aimants.
+Les matériaux sont pires encore, parce qu'ils sont déjà transformés en arme. La Chine fournit environ 98 % des terres rares et 71 % du gallium importés, et contrôle 60 % de l'extraction mondiale et 90 % du raffinage. Sa règle extraterritoriale dite des 0,1 %, entrée en vigueur le 1er décembre 2025, étend ce contrôle à tout produit contenant ces matériaux ; Pékin l'a suspendue pour un an (novembre 2025 à novembre 2026) dans le cadre d'une trêve commerciale, ce qui ne désarme rien mais confirme que le robinet est politique et peut être rouvert à tout moment. Le prix du gallium a augmenté de 365 % sur la seule année 2025. Ce n'est pas une dépendance théorique : en avril 2025, des usines occidentales ont été mises à l'arrêt faute d'aimants.
 
 ### La pénurie déborde sur le grand public
 

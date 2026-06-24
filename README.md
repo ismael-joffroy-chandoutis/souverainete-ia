@@ -47,6 +47,7 @@ Tout est sourcé et daté. Là où les sources sérieuses se contredisent, je le
 4. [Lock-in et coupure : marché ou fief](fr/04-lock-in-coupure.md)
 5. [Le pari : indispensabilité, autre axe, demande](fr/05-pratique.md)
 6. [Ce qui peut retourner la table : les inconnues](fr/06-ce-qui-peut-retourner-la-table.md)
+7. [La couche oubliée : données et consentement](fr/07-donnees-consentement.md)
 
 Annexes : [`SOURCES.md`](SOURCES.md) (bibliographie vérifiée, datée) et [`METHODE.md`](METHODE.md) (comment ce document a été produit, et les corrections factuelles assumées).
 
