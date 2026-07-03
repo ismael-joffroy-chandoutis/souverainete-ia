@@ -54,3 +54,5 @@ Annexe : [`SOURCES.md`](SOURCES.md) (bibliographie vérifiée, datée).
 ---
 
 *Licence : CC BY 4.0 pour le texte (voir LICENSE). Travail de recherche personnel, pas un avis institutionnel.*
+
+Par [Ismaël Joffroy Chandoutis](https://ismaeljoffroychandoutis.com).
