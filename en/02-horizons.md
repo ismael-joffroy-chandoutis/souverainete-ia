@@ -1,6 +1,6 @@
 # 02. Horizons: from six months to ten years
 
-[← Index](../README.en.md) · [← 01 State of play](01-state-of-play.md)
+[← Index](../README.md) · [← 01 State of play](01-state-of-play.md)
 
 The right question is not "is Europe sovereign?" but "when, and over what?". A snapshot always lies, because the technology keeps moving; a trajectory tells the truth. Here, then, is the realistic state of sovereignty, horizon by horizon, dated, with no rhetorical optimism. The conclusion fits in a single sentence, which we then prove: the sovereign bet will be won or lost in the next twenty-four to thirty-six months, not in 2036.
 
@@ -50,4 +50,4 @@ This is the only horizon where a European leading-edge foundry is physically con
 
 The trap of the ten-year horizon is to believe there is time. There is not. Everything that will be true in 2031 depends on the grid-connection queues we join and the foundries we decide on in 2026 and 2027. The clock is the real subject.
 
-[← Index](../README.en.md) · [Next: 03, France or Europe →](03-france-or-europe.md)
+[← Index](../README.md) · [Next: 03, France or Europe →](03-france-or-europe.md)

@@ -1,6 +1,6 @@
 # 01 — État des lieux : les quatre couches de dépendance
 
-[← Retour au sommaire](../README.md)
+[← Retour au sommaire](../README.fr.md)
 
 La souveraineté en intelligence artificielle n'est pas un objet. Ce n'est pas « un modèle » qu'on posséderait ou pas. C'est une pile, une chaîne de couches empilées, et chacune a son propriétaire, sa géographie, sa vulnérabilité. Pour savoir où l'Europe est libre et où elle est captive, il faut décomposer cette chaîne et poser à chaque étage deux questions simples : qui fait la loi, et qui peut couper l'accès ?
 
@@ -83,4 +83,4 @@ Et il faut anticiper une mécanique qui reviendra tout au long de ce document : 
 
 *Sources détaillées et datées dans [`SOURCES.md`](../SOURCES.md).*
 
-[← Retour au sommaire](../README.md) · [Suite : 02 — Horizons →](02-horizons.md)
+[← Retour au sommaire](../README.fr.md) · [Suite : 02 — Horizons →](02-horizons.md)

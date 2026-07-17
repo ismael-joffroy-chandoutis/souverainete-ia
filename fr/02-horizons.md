@@ -1,6 +1,6 @@
 # 02 — Horizons : de six mois à dix ans
 
-[← Sommaire](../README.md) · [← 01 État des lieux](01-etat-des-lieux.md)
+[← Sommaire](../README.fr.md) · [← 01 État des lieux](01-etat-des-lieux.md)
 
 La bonne question n'est pas « l'Europe est-elle souveraine ? » mais « quand, et sur quoi ? ». Un instantané ment toujours, parce que la technologie bouge ; une trajectoire dit la vérité. Voici donc l'état réaliste de la souveraineté, horizon par horizon, daté, sans optimisme de discours. La conclusion tient en une phrase, qu'on démontre ensuite : le pari souverain se gagne ou se perd dans les vingt-quatre à trente-six prochains mois, pas en 2036.
 
@@ -50,4 +50,4 @@ C'est le seul horizon où une fonderie européenne de pointe est physiquement co
 
 Le piège de l'horizon à dix ans, c'est de croire qu'on a le temps. On ne l'a pas. Tout ce qui sera vrai en 2031 dépend des files de raccordement qu'on rejoint et des fonderies qu'on décide en 2026 et 2027. L'horloge est le vrai sujet.
 
-[← Sommaire](../README.md) · [Suite : 03 — France ou Europe →](03-france-europe.md)
+[← Sommaire](../README.fr.md) · [Suite : 03 — France ou Europe →](03-france-europe.md)

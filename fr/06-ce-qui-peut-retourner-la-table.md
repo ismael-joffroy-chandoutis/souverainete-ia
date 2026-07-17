@@ -1,6 +1,6 @@
 # 06 — Ce qui peut retourner la table
 
-[← Sommaire](../README.md) · [← 05 Le pari](05-pratique.md)
+[← Sommaire](../README.fr.md) · [← 05 Le pari](05-pratique.md)
 
 Un instantané ment, on l'a dit. Tout ce qui précède décrit le présent, et le présent peut basculer. Cette section regarde les forces qui pourraient retourner la table, en posant à chacune la même discipline, pour ne pas se raconter d'histoires : érode-t-elle le fossé du modèle, celui du compute, ou celui de la fonderie ? Et est-ce une opportunité spécifiquement européenne, ou un simple changement de maître étranger ?
 
@@ -84,4 +84,4 @@ Et il y a une seconde dimension à cet angle mort : aucune analyse ne modélise 
 
 La table peut donc être retournée. Mais elle se retourne sur la couche logicielle, où l'Europe peut suivre, et sur l'axe du paradigme suivant et des substrats, où elle a de vraies cartes. Pas sur le mur matériel, qui tient. Et le levier le plus puissant n'est pas une technologie : c'est de cesser de mesurer la souveraineté comme une usine, et de la mesurer comme un robinet et une règle.
 
-[← Sommaire](../README.md) · [Suite : 07 — La couche oubliée →](07-donnees-consentement.md)
+[← Sommaire](../README.fr.md) · [Suite : 07 — La couche oubliée →](07-donnees-consentement.md)

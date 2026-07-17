@@ -1,6 +1,6 @@
 # 05 — Le pari : indispensabilité, autre axe, demande
 
-[← Sommaire](../README.md) · [← 04 Lock-in et coupure](04-lock-in-coupure.md)
+[← Sommaire](../README.fr.md) · [← 04 Lock-in et coupure](04-lock-in-coupure.md)
 
 Avant la stratégie, une correction de cadrage, parce que c'est elle qui change tout. Toute l'analyse qui précède mesure la souveraineté comme une chaîne d'approvisionnement : qui fabrique la puce, qui possède le modèle, qui détient le compute. Et mesurée ainsi, la conclusion est « vassalité », puisque l'Europe ne contrôle aucun maillon amont décisif.
 
@@ -78,4 +78,4 @@ Pire : un krach de la bulle IA américaine n'égaliserait pas le terrain. Il dé
 
 La doctrine à trois étages doit donc tenir que la bulle éclate ou non. C'est sa condition de crédibilité.
 
-[← Sommaire](../README.md) · [Suite : 06 — Ce qui peut retourner la table →](06-ce-qui-peut-retourner-la-table.md)
+[← Sommaire](../README.fr.md) · [Suite : 06 — Ce qui peut retourner la table →](06-ce-qui-peut-retourner-la-table.md)

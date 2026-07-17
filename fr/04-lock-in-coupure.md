@@ -1,6 +1,6 @@
 # 04 — Lock-in et coupure : marché ou fief
 
-[← Sommaire](../README.md) · [← 03 France ou Europe](03-france-europe.md)
+[← Sommaire](../README.fr.md) · [← 03 France ou Europe](03-france-europe.md)
 
 Tout le débat sur la souveraineté tourne autour d'un mot mal posé : « l'innovation ». On se demande qui invente le meilleur modèle, qui a le plus gros datacenter. Mauvaise question. La bonne, c'est le coût de sortie. Parce qu'un marché et un fief ne se punissent pas de la même façon. Un marché te punit par un prix moins bon. Un fief te punit par la non-existence. La coupure n'est pas un signal de prix, c'est une excommunication.
 
@@ -46,4 +46,4 @@ Si le problème est le coût de sortie, alors la réponse n'est pas de subventio
 
 L'argent dépensé à rendre la migration gratuite défait plus de féodalité que l'argent dépensé à construire un meilleur fief. Le féodalisme meurt quand le serf peut partir. C'est tout le sujet de la section suivante : non pas comment posséder la chaîne, mais comment cesser d'être captif.
 
-[← Sommaire](../README.md) · [Suite : 05 — Le pari →](05-pratique.md)
+[← Sommaire](../README.fr.md) · [Suite : 05 — Le pari →](05-pratique.md)

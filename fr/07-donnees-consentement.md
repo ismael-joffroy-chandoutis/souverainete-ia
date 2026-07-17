@@ -1,6 +1,6 @@
 # 07 — La couche oubliée : données et consentement
 
-[← Sommaire](../README.md) · [← 06 Ce qui peut retourner la table](06-ce-qui-peut-retourner-la-table.md)
+[← Sommaire](../README.fr.md) · [← 06 Ce qui peut retourner la table](06-ce-qui-peut-retourner-la-table.md)
 
 > *Ce chapitre prolonge la pile des [quatre couches](01-etat-des-lieux.md) vers le bas, là où elle s'arrêtait trop tôt, et relie ce dossier à un second corpus, celui sur la position d'auteur face à l'IA générative (essais « Montrer les coutures » et « Accompagner l'individuation »).*
 
@@ -62,4 +62,4 @@ La donnée d'entraînement est la couche que ce dossier avait oubliée, et c'est
 
 *Ce chapitre est le point de jonction avec un second travail, consacré non plus à la souveraineté des États mais à la position d'un auteur qui fabrique avec l'IA : les essais « Montrer les coutures » et « Accompagner l'individuation ». Ce que ce chapitre appelle « communs de données consenties » à l'échelle continentale, ces essais l'appellent « consentement situé, fait forme » à l'échelle d'un film. C'est la même couture, montrée à deux échelles.*
 
-[← Sommaire](../README.md) · [← 06 Ce qui peut retourner la table](06-ce-qui-peut-retourner-la-table.md)
+[← Sommaire](../README.fr.md) · [← 06 Ce qui peut retourner la table](06-ce-qui-peut-retourner-la-table.md)

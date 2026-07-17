@@ -1,6 +1,6 @@
 # 03 — France ou Europe : l'illusion du souverainisme national
 
-[← Sommaire](../README.md) · [← 02 Horizons](02-horizons.md)
+[← Sommaire](../README.fr.md) · [← 02 Horizons](02-horizons.md)
 
 Quand un responsable politique français dit « souveraineté », il faut lui demander : à quelle échelle ? Parce que la réponse n'est pas la même selon qu'on parle de la France seule ou de l'Europe comme bloc. Et cette différence n'est pas un détail de vocabulaire : c'est la ligne qui sépare une stratégie crédible d'un slogan.
 
@@ -42,4 +42,4 @@ La France gagne en souveraineté en renforçant le bloc, pas en s'en émancipant
 
 En une phrase : la souveraineté IA est un problème d'échelle continentale dont la France ne détient qu'un sous-ensemble de maillons, l'Europe un seul verrou mondial, et personne la chaîne entière. L'analogie du Rafale éclaire l'ambition d'autonomie d'emploi, mais surestime gravement la possibilité d'une autonomie de chaîne.
 
-[← Sommaire](../README.md) · [Suite : 04 — Lock-in et coupure →](04-lock-in-coupure.md)
+[← Sommaire](../README.fr.md) · [Suite : 04 — Lock-in et coupure →](04-lock-in-coupure.md)

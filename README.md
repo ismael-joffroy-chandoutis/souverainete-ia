@@ -1,58 +1,67 @@
-# Souveraineté IA : Europe et France
+**English** · [Français](README.fr.md)
 
-**Où on en est vraiment, et ce qu'on peut faire pour ne pas se faire piloter.**
+# AI Sovereignty: Europe and France
 
-*Document de recherche. État vérifié au 15 juin 2026. Version française ci-dessous. Version anglaise : [`README.en.md`](README.en.md). Sources : [`SOURCES.md`](SOURCES.md).*
+**Where we really stand, and what we can do to avoid being steered.**
+
+*Research document. State verified as of June 15, 2026. French version: [`README.fr.md`](README.fr.md). Sources: [`SOURCES.md`](SOURCES.md).*
 
 ---
 
-## Pourquoi ce document
+## Why this document
 
-Je travaille avec l'intelligence artificielle comme matériau. Je dépends donc, concrètement, d'une chaîne d'outils que je ne contrôle pas. Le 12 juin 2026, un modèle déployé auprès de centaines de millions de personnes a été désactivé en quelques heures par le décret d'un État étranger. Ce jour-là, une inquiétude diffuse est devenue une question précise : qu'est-ce que l'Europe maîtrise vraiment, et qu'est-ce qu'on peut nous couper ?
+I work with artificial intelligence as a material. So I depend, concretely, on a toolchain I do not control. On June 12, 2026, a model deployed to hundreds of millions of people was shut down within hours by the decree of a foreign state. That day, a diffuse unease became a precise question: what does Europe actually master, and what can be cut off from us?
 
-J'ai voulu une réponse vérifiée, datée, sans slogan. Ni drapeau, ni camp. Ce document est cette réponse. Il ne promet pas une souveraineté qui n'existe pas, et il ne se résigne pas à la dépendance. Il vise la non-captivité, pas la pureté. Et il finit par ce qui me semble le plus utile : ce qu'on peut faire, et ce qu'il faut comprendre, pour ne pas se faire piloter.
+I wanted a verified answer, dated, with no slogans. No flag, no camp. This document is that answer. It does not promise a sovereignty that does not exist, and it does not resign itself to dependence. It aims for non-captivity, not purity. And it ends with what seems to me most useful: what we can do, and what we need to understand, to avoid being steered.
 
-Tout est sourcé et daté. Là où les sources sérieuses se contredisent, je le dis au lieu de trancher. Là où je me suis trompé en chemin, je l'ai corrigé dans le texte.
+Everything is sourced and dated. Where serious sources contradict each other, I say so instead of picking a side. Where I went wrong along the way, I corrected it in the text.
 
 *Ismaël Joffroy Chandoutis*
 
 ---
 
-## Le verdict en bref
+## The verdict in brief
 
-> **L'Europe ne peut pas posséder le brut : la fonderie de pointe, la mémoire HBM, le compute d'entraînement. Mais elle peut posséder le raffinage, le robinet et la règle.** Souveraineté par indispensabilité et par contrôle de la demande, jamais par autarcie.
+> **Europe cannot own the raw material: the leading-edge foundry, HBM memory, training compute. But it can own the refining, the tap, and the rule.** Sovereignty through indispensability and through control of demand, never through autarky.
 
-**Ce qui est vrai et dur.** Le fossé matériel est un mur. L'Europe ne grave aucune puce de pointe (son nœud le plus avancé est le 18nm de ST Crolles), ne produit aucune mémoire HBM, et pèse environ 5 % du compute IA mondial, en baisse. Multiplier les designs (modèles, ASIC, robots) ne fait qu'augmenter la pression sur le même goulot. La seule carte mondiale que l'Europe tient vraiment, c'est ASML, monopole absolu sur les machines de gravure EUV, dont le monde entier dépend, États-Unis compris. Mais elle ne peut pas la convertir seule en souveraineté.
+**What is true and hard.** The hardware gap is a wall. Europe etches no leading-edge chip (its most advanced node is ST Crolles' 18nm), produces no HBM memory, and weighs in at roughly 5% of global AI compute, and falling. Multiplying designs (models, ASICs, robots) only increases the pressure on the same bottleneck. The one global card Europe truly holds is ASML, an absolute monopoly on EUV etching machines that the entire world depends on, the United States included. But Europe cannot convert it into sovereignty on its own.
 
-**Ce qui est surévalué.** Le fossé modèle et capital. Il se commoditise : distillation, mélange d'experts, quantization, recettes d'entraînement publiques font tomber l'écart avec la frontière à environ dix points et trois à six mois, et le coût par token chute d'un facteur dix par an. La preuve a contrario est juridique : faute de barrière technique, les États-Unis défendent désormais leur avance par le droit. Le « retard modèle » européen est un faux handicap permanent. Mistral peut suivre à six mois de la frontière, et un acteur européen peut même être en tête sur le paradigme suivant (les world models : le pari le plus sérieux, AMI Labs, est à Paris).
+**What is overrated.** The model and capital gap. It is becoming a commodity: distillation, mixture of experts, quantization, and public training recipes are closing the gap with the frontier to roughly ten points and three to six months, while the cost per token drops by a factor of ten per year. The proof by contradiction is legal: lacking a technical barrier, the United States now defends its lead through the law. The European "model lag" is a permanent false handicap. Mistral can stay six months behind the frontier, and a European player can even lead on the next paradigm (world models: the most serious bet, AMI Labs, is in Paris).
 
-**L'erreur de cadrage.** Mesurer la souveraineté comme une chaîne d'approvisionnement (qui fabrique la puce) conduit mécaniquement à conclure « vassalité ». Mais l'histoire économique dit l'inverse : la rente migre vers le contrôle de la relation client et de la donnée d'usage, pas vers la fabrication la plus capitalistique. Pétrole raffiné contre brut, système d'exploitation contre matériel, Android contre fabricants. Un acteur américain qui domine le modèle, le compute et la fonderie mais doit passer par des intégrateurs, des données et une conformité européennes pour toucher 450 millions de clients réglementés n'a pas la souveraineté sur ce marché : il en dépend.
+**The framing error.** Measuring sovereignty as a supply chain (who makes the chip) mechanically leads to the conclusion of "vassalage." But economic history says the opposite: the rent migrates toward control of the customer relationship and of usage data, not toward the most capital-intensive manufacturing. Refined oil versus crude, operating system versus hardware, Android versus device makers. An American player that dominates the model, the compute, and the foundry but must go through European integrators, data, and compliance to reach 450 million regulated customers does not hold sovereignty over this market: it depends on it.
 
-**Le pari, à trois étages.**
-1. **Indispensabilité.** Jouer le verrou qu'on détient (ASML) comme levier de négociation, via un contrôle souverain européen établi *avant* toute crise, pas la fonderie qu'on n'aura pas.
-2. **L'autre axe, là où l'avantage européen est réel.** Les substrats non-EUV (photonique, neuromorphique) sur nœuds matures, où l'Europe possède déjà la chaîne, pour capter l'inférence ; le paradigme suivant (world models, où l'avance texte américaine ne se transfère pas) ; l'open-weight comme commun (Mistral, OpenEuroLLM).
-3. **Demande garantie et judo réglementaire.** L'achat souverain pluriannuel pour que les champions européens cessent d'être rachetés par les États-Unis ; le mandat d'interopérabilité des modèles et des données à la RGPD ; le compute citoyen public, non spéculatif, pour les verticales que personne ne peut exfiltrer.
+**The bet, in three tiers.**
+1. **Indispensability.** Play the lock we hold (ASML) as a bargaining lever, through European sovereign control established *before* any crisis, not the foundry we will not have.
+2. **The other axis, where the European advantage is real.** Non-EUV substrates (photonics, neuromorphic) on mature nodes, where Europe already owns the chain, to capture inference; the next paradigm (world models, where the American text lead does not transfer); open-weight as a commons (Mistral, OpenEuroLLM).
+3. **Guaranteed demand and regulatory judo.** Multi-year sovereign procurement so that European champions stop being bought up by the United States; an interoperability mandate for models and data under the GDPR; public citizen compute, non-speculative, for the verticals that no one can exfiltrate.
 
-**Le garde-fou anti-naïf.** La voie frugale n'est un avantage que si trois conditions sont réunies : capital patient, achat souverain réel, et vitesse de raccordement au réseau électrique débloquée. Sans elles, elle reste une vertu subordonnée. Pire : un krach de la bulle IA américaine n'égaliserait pas le terrain, il appauvrirait le plus faible, l'Europe étant déjà au bord de la récession et la première à couper son capital patient en cas d'austérité. Et l'« atout » du nucléaire français mérite trois astérisques : faible intensité carbone, oui, mais ni propre (déchets éternels), ni pleinement souverain (uranium importé), ni insensible au climat (eau, sécheresse).
+**The anti-naive guardrail.** The frugal path is an advantage only if three conditions are met: patient capital, real sovereign procurement, and an unblocked speed of connection to the power grid. Without them, it remains a subordinate virtue. Worse: a crash of the American AI bubble would not level the field, it would impoverish the weakest, since Europe is already on the brink of recession and the first to cut its patient capital in case of austerity. And the French nuclear "asset" deserves three asterisks: low carbon intensity, yes, but neither clean (eternal waste), nor fully sovereign (imported uranium), nor immune to the climate (water, drought).
 
-**En une phrase :** ni vassalité fatale, ni souveraineté triomphante. Une non-captivité possible mais conditionnelle, qui se joue dans les vingt-quatre à trente-six prochains mois, pas en 2036.
-
----
-
-## Comment lire ce document
-
-1. [État des lieux : les quatre couches de dépendance](fr/01-etat-des-lieux.md)
-2. [Horizons : de six mois à dix ans](fr/02-horizons.md)
-3. [France ou Europe : l'illusion du souverainisme national](fr/03-france-europe.md)
-4. [Lock-in et coupure : marché ou fief](fr/04-lock-in-coupure.md)
-5. [Le pari : indispensabilité, autre axe, demande](fr/05-pratique.md)
-6. [Ce qui peut retourner la table : les inconnues](fr/06-ce-qui-peut-retourner-la-table.md)
-7. [La couche oubliée : données et consentement](fr/07-donnees-consentement.md)
-
-Annexe : [`SOURCES.md`](SOURCES.md) (bibliographie vérifiée, datée).
+**In one sentence:** neither fatal vassalage nor triumphant sovereignty. A possible but conditional non-captivity, one that plays out in the next twenty-four to thirty-six months, not in 2036.
 
 ---
 
-*Licence : CC BY 4.0 pour le texte (voir LICENSE). Travail de recherche personnel, pas un avis institutionnel.*
+## How to read this document
 
-Par [Ismaël Joffroy Chandoutis](https://ismaeljoffroychandoutis.com).
+1. [State of play: the four layers of dependence](en/01-state-of-play.md)
+2. [Horizons: from six months to ten years](en/02-horizons.md)
+3. [France or Europe: the illusion of national sovereignism](en/03-france-or-europe.md)
+4. [Lock-in and cutoff: market or fiefdom](en/04-lock-in-and-cutoff.md)
+5. [The bet: indispensability, other axis, demand](en/05-the-bet.md)
+6. [What could flip the table: the unknowns](en/06-what-could-flip-the-table.md)
+7. [The forgotten layer: data and consent](en/07-data-and-consent.md)
+
+Appendix: [`SOURCES.md`](SOURCES.md) (verified, dated bibliography).
+
+---
+
+## Related work
+
+Two companion repositories, kept separate on purpose rather than merged into this one:
+
+- [`souverainete-ia-europe`](https://github.com/ismael-joffroy-chandoutis/souverainete-ia-europe): an earlier, narrower state of play on chips, cloud, models, and quantum. This repository is the canonical, up-to-date version of that inquiry.
+- [`souverainete-numerique-critique`](https://github.com/ismael-joffroy-chandoutis/souverainete-numerique-critique): a critique of the concept of "digital sovereignty" itself, and of alternative vocabularies (autonomy, conviviality, commons, vernacular). Complementary reading, not a duplicate: that repo questions the frame, this one works inside it.
+
+---
+
+*License: CC BY 4.0 for the text (see LICENSE). A personal research work, not an institutional opinion.*

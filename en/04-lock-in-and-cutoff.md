@@ -1,6 +1,6 @@
 # 04. Lock-in and cutoff: market or fief
 
-[← Index](../README.en.md) · [← 03 France or Europe](03-france-or-europe.md)
+[← Index](../README.md) · [← 03 France or Europe](03-france-or-europe.md)
 
 The whole sovereignty debate revolves around one badly framed word: "innovation." We ask who invents the best model, who has the biggest datacenter. Wrong question. The right one is the cost of exit. Because a market and a fief do not punish you the same way. A market punishes you with a worse price. A fief punishes you with non-existence. The cutoff is not a price signal, it is an excommunication.
 
@@ -46,4 +46,4 @@ If the problem is the cost of exit, then the answer is neither to subsidize foun
 
 Money spent making migration free undoes more feudalism than money spent building a better fief. Feudalism dies when the serf can leave. That is the entire subject of the next section: not how to own the chain, but how to stop being captive.
 
-[← Index](../README.en.md) · [Next: 05, The bet →](05-the-bet.md)
+[← Index](../README.md) · [Next: 05, The bet →](05-the-bet.md)

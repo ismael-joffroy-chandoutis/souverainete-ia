@@ -1,6 +1,6 @@
 # 07 — The forgotten layer: data and consent
 
-[← Index](../README.en.md) · [← 06 What could flip the table](06-what-could-flip-the-table.md)
+[← Index](../README.md) · [← 06 What could flip the table](06-what-could-flip-the-table.md)
 
 > *This chapter extends the [four-layer](01-state-of-play.md) stack one notch further down, where it stopped too soon, and connects this dossier to a second body of work, on the author's stance toward generative AI (the essays "Showing the Seams" and "Accompanying Individuation").*
 
@@ -62,4 +62,4 @@ Training data is the layer this dossier had forgotten, and it is the most singul
 
 *This chapter is the junction point with a second body of work, devoted no longer to the sovereignty of states but to the stance of an author who creates with AI: the essays "Showing the Seams" and "Accompanying Individuation." What this chapter calls "consented data commons" at the continental scale, those essays call "situated consent, made form" at the scale of a film. It is the same seam, shown at two scales.*
 
-[← Index](../README.en.md) · [← 06 What could flip the table](06-what-could-flip-the-table.md)
+[← Index](../README.md) · [← 06 What could flip the table](06-what-could-flip-the-table.md)

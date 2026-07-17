@@ -1,6 +1,6 @@
 # 01. State of play: the four layers of dependence
 
-[← Back to index](../README.en.md)
+[← Back to index](../README.md)
 
 Sovereignty in artificial intelligence is not an object. It is not "a model" that you either own or do not. It is a stack, a chain of layers piled on top of one another, and each one has its owner, its geography, its vulnerability. To know where Europe is free and where it is captive, you have to break this chain apart and ask, at each level, two simple questions: who makes the rules, and who can cut off access?
 
@@ -83,4 +83,4 @@ And there is a mechanism to anticipate that will return throughout this document
 
 *Detailed and dated sources in [`SOURCES.md`](../SOURCES.md).*
 
-[← Back to index](../README.en.md) · [Next: 02, Horizons →](02-horizons.md)
+[← Back to index](../README.md) · [Next: 02, Horizons →](02-horizons.md)

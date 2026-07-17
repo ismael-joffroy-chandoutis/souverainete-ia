@@ -1,6 +1,6 @@
 # Sources
 
-[← Sommaire](README.md)
+[← Sommaire](README.fr.md)
 
 Sélection des sources les plus porteuses, organisée par thème, datée. Ce n'est pas l'intégralité des références consultées (plus d'une centaine), mais l'ossature vérifiable des affirmations du document. Sauf mention contraire, l'état est celui de juin 2026.
 
@@ -87,4 +87,4 @@ Sélection des sources les plus porteuses, organisée par thème, datée. Ce n'e
 
 *Les chiffres d'agrégateurs de mars à juin 2026 sont à reconfirmer sur source primaire avant citation nominale publique.*
 
-[← Sommaire](README.md)
+[← Sommaire](README.fr.md)

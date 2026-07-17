@@ -1,6 +1,6 @@
 # 05. The bet: indispensability, another axis, demand
 
-[← Index](../README.en.md) · [← 04 Lock-in and cutoff](04-lock-in-and-cutoff.md)
+[← Index](../README.md) · [← 04 Lock-in and cutoff](04-lock-in-and-cutoff.md)
 
 Before the strategy, a reframing, because it is the reframing that changes everything. The whole analysis that precedes measures sovereignty as a supply chain: who makes the chip, who owns the model, who holds the compute. And measured this way, the conclusion is "vassalage," since Europe controls no decisive upstream link.
 
@@ -78,4 +78,4 @@ Worse: a crash of the American AI bubble would not level the playing field. It w
 
 The three-level doctrine must therefore hold whether the bubble bursts or not. That is its condition of credibility.
 
-[← Index](../README.en.md) · [Next: 06, What could flip the table →](06-what-could-flip-the-table.md)
+[← Index](../README.md) · [Next: 06, What could flip the table →](06-what-could-flip-the-table.md)

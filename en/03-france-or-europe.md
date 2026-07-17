@@ -1,6 +1,6 @@
 # 03. France or Europe: the illusion of national sovereigntism
 
-[← Index](../README.en.md) · [← 02 Horizons](02-horizons.md)
+[← Index](../README.md) · [← 02 Horizons](02-horizons.md)
 
 When a French politician says "sovereignty," you have to ask: at what scale? Because the answer is not the same depending on whether you mean France alone or Europe as a bloc. And this difference is not a matter of vocabulary: it is the line that separates a credible strategy from a slogan.
 
@@ -42,4 +42,4 @@ France gains sovereignty by strengthening the bloc, not by breaking away from it
 
 In one sentence: AI sovereignty is a problem of continental scale, of which France holds only a subset of links, Europe a single global lock, and no one the entire chain. The Rafale analogy illuminates the ambition of operational autonomy, but gravely overestimates the possibility of chain autonomy.
 
-[← Index](../README.en.md) · [Next: 04, Lock-in and cutoff →](04-lock-in-and-cutoff.md)
+[← Index](../README.md) · [Next: 04, Lock-in and cutoff →](04-lock-in-and-cutoff.md)

@@ -1,6 +1,6 @@
 # 06. What Could Flip the Table
 
-[← Index](../README.en.md) · [← 05 The Bet](05-the-bet.md)
+[← Index](../README.md) · [← 05 The Bet](05-the-bet.md)
 
 A snapshot lies, as we have said. Everything above describes the present, and the present can shift. This section looks at the forces that could flip the table, holding each to the same discipline so as not to fool ourselves: does it erode the model moat, the compute moat, or the foundry moat? And is it a specifically European opportunity, or simply a change of foreign master?
 
@@ -84,4 +84,4 @@ And there is a second dimension to this blind spot: no analysis seriously models
 
 The table can therefore be flipped. But it flips on the software layer, where Europe can keep pace, and on the axis of the next paradigm and the substrates, where it holds real cards. Not on the hardware wall, which holds. And the most powerful lever is not a technology: it is to stop measuring sovereignty as a factory, and to measure it as a tap and a rule.
 
-[← Index](../README.en.md) · [Next: 07 — The forgotten layer →](07-data-and-consent.md)
+[← Index](../README.md) · [Next: 07 — The forgotten layer →](07-data-and-consent.md)
