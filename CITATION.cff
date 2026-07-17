@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use or cite this work, please credit it as below."
 title: "souverainete-ia"
-abstract: "Souverainete IA : Europe et France. Recherche verifiee, bilingue FR/EN. CC BY 4.0."
+abstract: "Souverainete IA : Europe et France. Recherche verifiee, bilingue FR/EN. CC BY-NC-ND 4.0."
 type: dataset
 authors:
   - given-names: "Ismaël"

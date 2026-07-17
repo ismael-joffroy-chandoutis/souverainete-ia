@@ -64,4 +64,4 @@ Two companion repositories, kept separate on purpose rather than merged into thi
 
 ---
 
-*License: CC BY 4.0 for the text (see LICENSE). A personal research work, not an institutional opinion.*
+*License: CC BY-NC-ND 4.0 for the text (see [LICENSE.md](LICENSE.md)). A personal research work, not an institutional opinion.*

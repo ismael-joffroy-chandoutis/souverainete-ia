@@ -64,6 +64,6 @@ Deux dépôts compagnons, gardés séparés à dessein plutôt que fusionnés da
 
 ---
 
-*Licence : CC BY 4.0 pour le texte (voir LICENSE). Travail de recherche personnel, pas un avis institutionnel.*
+*Licence : CC BY-NC-ND 4.0 pour le texte (voir [LICENSE.md](LICENSE.md)). Travail de recherche personnel, pas un avis institutionnel.*
 
 Par [Ismaël Joffroy Chandoutis](https://ismaeljoffroychandoutis.com).
