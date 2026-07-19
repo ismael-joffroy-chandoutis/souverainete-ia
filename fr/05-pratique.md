@@ -1,4 +1,4 @@
-# 05 — Le pari : indispensabilité, autre axe, demande
+# 05. Le pari : indispensabilité, autre axe, demande
 
 [← Sommaire](../README.fr.md) · [← 04 Lock-in et coupure](04-lock-in-coupure.md)
 
@@ -12,13 +12,13 @@ Le pari réaliste n'est donc ni de rattraper la pile américaine (perdu d'avance
 
 ---
 
-## Étage 1 — Indispensabilité : jouer le verrou qu'on détient
+## Étage 1 : Indispensabilité : jouer le verrou qu'on détient
 
 L'Europe ne possède qu'une carte de coercition mondiale : ASML. Le bon usage n'est pas le chantage, qui serait l'escalade, mais l'indispensabilité, qui est le levier. La doctrine s'énonce simplement : indispensabilité, pas autosuffisance. Le mécanisme est transactionnel, pas martial : garantir l'accès aux machines de lithographie européennes contre un accès prioritaire aux puces étrangères et des contreparties industrielles. L'objectif n'est pas de couper, c'est de rendre toute tentative de nous couper trop coûteuse pour être tentée.
 
 Concrètement, cela veut dire reprendre un contrôle souverain européen sur ASML, par une golden share européenne et pas seulement néerlandaise, établie avant toute crise de Taïwan, et réduire le contenu d'origine américaine dans sa chaîne pour échapper à la portée des contrôles d'export américains. Trois limites doivent être regardées en face : l'Europe ne tient pas seule la gâchette aujourd'hui (ASML est sous licence d'export néerlandaise, déjà alignée sur la pression américaine) ; l'asymétrie de temps rend l'arme inutile en représailles directes (un embargo EUV mord en années, une coupure d'IA en heures) mais puissante en dissuasion de long terme ; et c'est une option nucléaire, catastrophique si on l'utilise. La carte se joue discrètement, comme un rappel que l'EUV ne peut être tenu pour acquis, pas comme une menace publique. Mal manié, on perd notre seule carte.
 
-## Étage 2 — L'autre axe : là où l'avantage européen est réel
+## Étage 2 : L'autre axe : là où l'avantage européen est réel
 
 Plutôt que de courir, perdant, derrière la frontière américaine, l'Europe a intérêt à ouvrir un autre axe, là où son avantage est structurel et pas subi.
 
@@ -28,7 +28,7 @@ Le **paradigme suivant** ensuite : les world models, où l'avance américaine su
 
 L'**open-weight comme commun** enfin : Mistral, SmolLM de Hugging Face (entreprise d'origine française), OpenEuroLLM, les datasets ouverts comme FineWeb. C'est la couche où l'Europe peut bâtir un bien commun sans la permission de personne. Et avec elle, les **petits modèles sur edge** (qui tournent sur un téléphone ou un Raspberry Pi, sans datacenter, immunisés à la coupure) et le **compute citoyen décentralisé**, à condition qu'il soit public et non spéculatif.
 
-## Étage 3 — Demande garantie et judo réglementaire : le levier sans transistor
+## Étage 3 : Demande garantie et judo réglementaire : le levier sans transistor
 
 C'est la conséquence directe de la correction de cadrage. Si la souveraineté se gagne à la couche demande et donnée, alors les trois leviers les plus puissants ne nécessitent pas un seul transistor.
 
@@ -78,4 +78,4 @@ Pire : un krach de la bulle IA américaine n'égaliserait pas le terrain. Il dé
 
 La doctrine à trois étages doit donc tenir que la bulle éclate ou non. C'est sa condition de crédibilité.
 
-[← Sommaire](../README.fr.md) · [Suite : 06 — Ce qui peut retourner la table →](06-ce-qui-peut-retourner-la-table.md)
+[← Sommaire](../README.fr.md) · [Suite : 06, Ce qui peut retourner la table →](06-ce-qui-peut-retourner-la-table.md)

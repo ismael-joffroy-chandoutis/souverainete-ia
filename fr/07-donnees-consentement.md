@@ -1,4 +1,4 @@
-# 07 — La couche oubliée : données et consentement
+# 07. La couche oubliée : données et consentement
 
 [← Sommaire](../README.fr.md) · [← 06 Ce qui peut retourner la table](06-ce-qui-peut-retourner-la-table.md)
 

@@ -1,4 +1,4 @@
-# 04 — Lock-in et coupure : marché ou fief
+# 04. Lock-in et coupure : marché ou fief
 
 [← Sommaire](../README.fr.md) · [← 03 France ou Europe](03-france-europe.md)
 
@@ -46,4 +46,4 @@ Si le problème est le coût de sortie, alors la réponse n'est pas de subventio
 
 L'argent dépensé à rendre la migration gratuite défait plus de féodalité que l'argent dépensé à construire un meilleur fief. Le féodalisme meurt quand le serf peut partir. C'est tout le sujet de la section suivante : non pas comment posséder la chaîne, mais comment cesser d'être captif.
 
-[← Sommaire](../README.fr.md) · [Suite : 05 — Le pari →](05-pratique.md)
+[← Sommaire](../README.fr.md) · [Suite : 05, Le pari →](05-pratique.md)

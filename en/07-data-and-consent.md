@@ -1,4 +1,4 @@
-# 07 — The forgotten layer: data and consent
+# 07. The forgotten layer: data and consent
 
 [← Index](../README.md) · [← 06 What could flip the table](06-what-could-flip-the-table.md)
 

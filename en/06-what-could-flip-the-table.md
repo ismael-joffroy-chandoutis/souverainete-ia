@@ -84,4 +84,4 @@ And there is a second dimension to this blind spot: no analysis seriously models
 
 The table can therefore be flipped. But it flips on the software layer, where Europe can keep pace, and on the axis of the next paradigm and the substrates, where it holds real cards. Not on the hardware wall, which holds. And the most powerful lever is not a technology: it is to stop measuring sovereignty as a factory, and to measure it as a tap and a rule.
 
-[← Index](../README.md) · [Next: 07 — The forgotten layer →](07-data-and-consent.md)
+[← Index](../README.md) · [Next: 07, The forgotten layer →](07-data-and-consent.md)

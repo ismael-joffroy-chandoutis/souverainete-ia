@@ -1,4 +1,4 @@
-# 01 — État des lieux : les quatre couches de dépendance
+# 01. État des lieux : les quatre couches de dépendance
 
 [← Retour au sommaire](../README.fr.md)
 
@@ -8,7 +8,7 @@ On va les parcourir de la couche la plus réversible à la couche la plus verrou
 
 ---
 
-## Couche 4 (la plus réversible) — Les modèles et le logiciel
+## Couche 4 (la plus réversible) : Les modèles et le logiciel
 
 C'est ici qu'on regarde toujours, et c'est ici que la dépendance est la moins grave.
 
@@ -22,7 +22,7 @@ Deux réserves, cependant. La première : l'open-weight mondial est dominé par 
 
 ---
 
-## Couche 3 — Le compute et l'électricité
+## Couche 3 : Le compute et l'électricité
 
 L'Europe pèse environ 5 % du compute IA mondial, contre 70 à 80 % pour les États-Unis et 11 % pour la Chine, et cette part baisse depuis le début 2025.
 
@@ -40,7 +40,7 @@ Côté infrastructure, les gigafactories européennes (le plan EuroHPC, environ 
 
 ---
 
-## Couche 2 — La mémoire HBM et les matériaux critiques
+## Couche 2 : La mémoire HBM et les matériaux critiques
 
 C'est une couche dure, et l'Europe y est absente.
 
@@ -56,7 +56,7 @@ Il faut le formuler sans exagérer, car le chiffre est ici un argument, pas un s
 
 ---
 
-## Couche 1 (la plus verrouillée) — La fonderie de pointe et l'EUV
+## Couche 1 (la plus verrouillée) : La fonderie de pointe et l'EUV
 
 On arrive au mur, et au paradoxe central de toute cette histoire.
 
@@ -83,4 +83,4 @@ Et il faut anticiper une mécanique qui reviendra tout au long de ce document : 
 
 *Sources détaillées et datées dans [`SOURCES.md`](../SOURCES.md).*
 
-[← Retour au sommaire](../README.fr.md) · [Suite : 02 — Horizons →](02-horizons.md)
+[← Retour au sommaire](../README.fr.md) · [Suite : 02, Horizons →](02-horizons.md)

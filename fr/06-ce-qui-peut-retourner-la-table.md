@@ -1,4 +1,4 @@
-# 06 — Ce qui peut retourner la table
+# 06. Ce qui peut retourner la table
 
 [← Sommaire](../README.fr.md) · [← 05 Le pari](05-pratique.md)
 
@@ -84,4 +84,4 @@ Et il y a une seconde dimension à cet angle mort : aucune analyse ne modélise 
 
 La table peut donc être retournée. Mais elle se retourne sur la couche logicielle, où l'Europe peut suivre, et sur l'axe du paradigme suivant et des substrats, où elle a de vraies cartes. Pas sur le mur matériel, qui tient. Et le levier le plus puissant n'est pas une technologie : c'est de cesser de mesurer la souveraineté comme une usine, et de la mesurer comme un robinet et une règle.
 
-[← Sommaire](../README.fr.md) · [Suite : 07 — La couche oubliée →](07-donnees-consentement.md)
+[← Sommaire](../README.fr.md) · [Suite : 07, La couche oubliée →](07-donnees-consentement.md)

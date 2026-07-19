@@ -6,7 +6,7 @@
 
 *Document de recherche. État vérifié au 15 juin 2026. Version anglaise : [`README.md`](README.md). Sources : [`SOURCES.md`](SOURCES.md).*
 
-> État des lieux compagnon : [Souveraineté numérique européenne et intelligence artificielle, état des lieux 2024-2026](europe/README.fr.md) — auparavant un dépôt autonome, désormais intégré à celui-ci.
+> État des lieux compagnon : [Souveraineté numérique européenne et intelligence artificielle, état des lieux 2024-2026](europe/README.fr.md). Auparavant un dépôt autonome, désormais intégré à celui-ci.
 
 ---
 
