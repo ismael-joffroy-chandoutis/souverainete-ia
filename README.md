@@ -14,6 +14,8 @@
 
 I work with artificial intelligence as a material. So I depend, concretely, on a toolchain I do not control. On June 12, 2026, a model deployed to hundreds of millions of people was shut down within hours by the decree of a foreign state. That day, a diffuse unease became a precise question: what does Europe actually master, and what can be cut off from us?
 
+<img src="monde.jpg" alt="souverainete-ia" width="100%">
+
 I wanted a verified answer, dated, with no slogans. No flag, no camp. This document is that answer. It does not promise a sovereignty that does not exist, and it does not resign itself to dependence. It aims for non-captivity, not purity. And it ends with what seems to me most useful: what we can do, and what we need to understand, to avoid being steered.
 
 Everything is sourced and dated. Where serious sources contradict each other, I say so instead of picking a side. Where I went wrong along the way, I corrected it in the text.

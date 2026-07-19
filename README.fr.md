@@ -14,6 +14,8 @@
 
 Je travaille avec l'intelligence artificielle comme matériau. Je dépends donc, concrètement, d'une chaîne d'outils que je ne contrôle pas. Le 12 juin 2026, un modèle déployé auprès de centaines de millions de personnes a été désactivé en quelques heures par le décret d'un État étranger. Ce jour-là, une inquiétude diffuse est devenue une question précise : qu'est-ce que l'Europe maîtrise vraiment, et qu'est-ce qu'on peut nous couper ?
 
+<img src="monde.jpg" alt="souverainete-ia" width="100%">
+
 J'ai voulu une réponse vérifiée, datée, sans slogan. Ni drapeau, ni camp. Ce document est cette réponse. Il ne promet pas une souveraineté qui n'existe pas, et il ne se résigne pas à la dépendance. Il vise la non-captivité, pas la pureté. Et il finit par ce qui me semble le plus utile : ce qu'on peut faire, et ce qu'il faut comprendre, pour ne pas se faire piloter.
 
 Tout est sourcé et daté. Là où les sources sérieuses se contredisent, je le dis au lieu de trancher. Là où je me suis trompé en chemin, je l'ai corrigé dans le texte.
