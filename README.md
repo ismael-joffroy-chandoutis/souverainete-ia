@@ -6,6 +6,8 @@
 
 *Research document. State verified as of June 15, 2026. French version: [`README.fr.md`](README.fr.md). Sources: [`SOURCES.md`](SOURCES.md).*
 
+> Companion survey: [European digital sovereignty and artificial intelligence, state of play 2024-2026](europe/) — previously a standalone repository, now part of this one.
+
 ---
 
 ## Why this document
